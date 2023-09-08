@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-  background-color: #f8d9f3;
+  background-color: #ffd863;
 }
 
 h3 {
@@ -17,4 +17,12 @@ h3 {
 em {
   background-color: #000000;
   color: #ffffff;
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
 }
